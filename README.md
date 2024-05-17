@@ -9,11 +9,11 @@ A demonstration of my implementation of the school project 21 - Brick Game v1.0,
 
 Below are the tasks and requirements for the project, as well as images with the KA scheme and the game.
 
-![game](images/tetris1.png)
-![game](images/tetris2.png)
-![game](images/tetris3.png)
-![game](images/tetris4.png)
-![game](images/tetris5.png)
+![game](src/images/tetris1.png)
+![game](src/images/tetris2.png)
+![game](src/images/tetris3.png)
+![game](src/images/tetris4.png)
+![game](src/images/tetris5.png)
 
 The project is assembled in the terminal using a Makefile and all commands work from the root folder of the project.
 Goals in the Makefile:
@@ -69,7 +69,7 @@ You need to implement the BrickGame v1.0 aka Tetris program:
 
 Pieces used:
 
-![Pieces](images/tetris-pieces.png)
+![Pieces](src/images/tetris-pieces.png)
 
 ### Part 2. Bonus. Scoring and game record
 
